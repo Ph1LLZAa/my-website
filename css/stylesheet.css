@@ -100,7 +100,7 @@ a {
 }
 
 .hero {
-    min-height: 720px;
+    min-height: 1040px;
     background-image:
         linear-gradient(
             rgba(0, 0, 0, 0.18),
