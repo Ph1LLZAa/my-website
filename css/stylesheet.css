@@ -953,4 +953,10 @@ a {
         bottom: 16px;
     }
 
+    .hero {
+    /* Sizing */
+    width: 100vw;
+    height: 100vh;
+}
+
 }
