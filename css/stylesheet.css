@@ -953,10 +953,11 @@ a {
         bottom: 16px;
     }
 
-    .hero {
-    /* Sizing */
-    width: 100vw;
+   .hero {
     height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 }
